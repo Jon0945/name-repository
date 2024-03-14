@@ -3,7 +3,7 @@ class App {
 
 
     public static void main(String[] args) {
-        NamesApp.start();
+        Console.start();
     }
 }
 
